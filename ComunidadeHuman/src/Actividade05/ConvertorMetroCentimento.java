@@ -1,5 +1,7 @@
 package Actividade05;
-
+/*
+ * 5 - Faça um Programa que converta metros para centímetros.
+ */
 import java.util.Scanner;
 
 public class ConvertorMetroCentimento {
